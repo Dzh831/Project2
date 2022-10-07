@@ -40,6 +40,6 @@ The premise of this part is to build your own social media sentiment analyzer wh
 The MVP is determining whether a tweet's subject line or hashtag is negative or positive.
 User: 1. As a topic maker, I want to know if Twitter's users have a positive or negative attitude towards the topic
      
-      2. As a Twitter user, I want to let Twitter techs know about my attitude and opinion about tweets， so that twitter can send me more tweets that I like.
+2. As a Twitter user, I want to let Twitter techs know about my attitude and opinion about tweets， so that twitter can send me more tweets that I like.
       
 I will go through the program of phase1 as a tool. This social media analyzer is used to measure the sentiment change of a hashtag at any point in time. Since the program cannot analyze a large number of tweets at once, at the command line, the user must type something like "phase_1.py --twitter_hashtag--num_tweets 2". The user will enter a twitter handle and the number of tweets in 10 tweets for analysis
