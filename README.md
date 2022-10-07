@@ -38,6 +38,7 @@ Phase 2
 The premise of this part is to build your own social media sentiment analyzer which based on the premise of applying sentiment analysis.
 
 The MVP is determining whether a tweet's subject line or hashtag is negative or positive.
+
 User: 1. As a topic maker, I want to know if Twitter's users have a positive or negative attitude towards the topic
      
 2. As a Twitter user, I want to let Twitter techs know about my attitude and opinion about tweets， so that twitter can send me more tweets that I like.
