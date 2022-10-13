@@ -44,3 +44,8 @@ User: 1. As a topic maker, I want to know if Twitter's users have a positive or 
 2. As a Twitter user, I want to let Twitter techs know about my attitude and opinion about tweets， so that twitter can send me more tweets that I like.
       
 I will go through the program of phase1 as a tool. This social media analyzer is used to measure the sentiment change of a hashtag at any point in time. Since the program cannot analyze a large number of tweets at once, at the command line, the user must type something like "phase_1.py --twitter_hashtag--num_tweets 2". The user will enter a twitter handle and the number of tweets in 10 tweets for analysis
+
+The outcome is:
+Tweets1 @JaychouupdatesJay Chou's Bedtime Stories 6.6 first single release6.8 pre-order 6.24 release album Sentiment: score of 0.5 with magnitude of 1.0 for this hashtag.Tweet2:https://twitter.com/EDG_Edward/status/158.....@Edward_Gaming.Overall Sentiment: score of 0.3 with magnitude of 0.9 for this hashtag
+
+At this point of time, Jay Chou has just announced the release of his new album, so people's hashtags on the topic are positive. And the EDG club announced that the players were infected with the new crown, so people were not so positive on the topic.
