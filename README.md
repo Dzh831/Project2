@@ -29,6 +29,7 @@ The two most recent tweets both have positive sentiments.
 
 Disclaimer:I refer the code from 'sample code', I only use it for learning and will not use it for any commercial purposes.
 
+![1665854383111](https://user-images.githubusercontent.com/113393243/195999618-ed663772-fe7a-41fd-9a0b-b78fa2f81e1c.png)
 
 
 ______________________________________________________________________________________________________________________________________________________________________
@@ -49,3 +50,5 @@ The outcome is:
 Tweets1 @JaychouupdatesJay Chou's Bedtime Stories 6.6 first single release6.8 pre-order 6.24 release album Sentiment: score of 0.5 with magnitude of 1.0 for this hashtag.Tweet2:https://twitter.com/EDG_Edward/status/158.....@Edward_Gaming.Overall Sentiment: score of 0.3 with magnitude of 0.9 for this hashtag
 
 At this point of time, Jay Chou has just announced the release of his new album, so people's hashtags on the topic are positive. And the EDG club announced that the players were infected with the new crown, so people were not so positive on the topic.
+
+![1665856076525](https://user-images.githubusercontent.com/113393243/196000843-6f95d99f-5552-4a6e-8f1a-d40f652fc5af.png)
